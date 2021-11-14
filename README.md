@@ -12,6 +12,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vynkevin222&theme=chartreuse-dark&layout=compact)](https://github.com/vynkevin222/vynkevin222)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vynZGaming&repo=Apinya&theme=blue-green)](https://github.com/vynkevin222/vynkevin222)
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
 ```TypeScript
 import { contact, User, About } from './Instagram'
@@ -76,11 +81,6 @@ export default class ME implements User {
     ]
 }
 ```
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 <details>
   <summary><b>Connect with me</b></summary>
   <p align="center">
