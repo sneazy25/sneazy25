@@ -1,5 +1,10 @@
-![SNEAZY](https://raw.githubusercontent.com/vynkevin222/vynkevin222/main/giphy.gif)
-### Hi there 👋
+<h1 align="center">こんにちは〜<img src="https://raw.githubusercontent.com/vynkevin222/vynkevin222/main/giphy.gif" width="40px" alt="hi"><br>BaileysCoders Team here!</h1>
+
+:page_with_curl: I'm currently learning:
+- Javascript 
+- Python
+- Typescript
+- HTML/CSS
 
 ## GitHub Statistics
 
