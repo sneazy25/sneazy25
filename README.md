@@ -1,4 +1,4 @@
-![SNEAZY](https://raw.githubusercontent.com/vynkevin222/vynkevin222/main/prefiew.gif)
+![SNEAZY](https://raw.githubusercontent.com/vynkevin222/vynkevin222/main/giphy.gif)
 ### Hi there 👋
 
 ## GitHub Statistics
