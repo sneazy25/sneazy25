@@ -1,4 +1,7 @@
-## GitHub Stats 🌟
+![SNEAZY](https://raw.githubusercontent.com/vynkevin222/vynkevin222/main/prefiew.gif)
+### Hi there 👋
+
+## GitHub Statistics
 
 ![Sneazys Vyn github stats](https://github-readme-stats.vercel.app/api?username=vynkevin222&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vynkevin222&theme=chartreuse-dark&layout=compact)](https://github.com/vynkevin222/vynkevin222)
