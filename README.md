@@ -73,14 +73,14 @@ export default class ME implements User {
             name: 'Sneazy_Bot',
             homepage: 'https://github.com/vynsneazy',
             repo: 'https://github.com/vynsneazy/SN',
-            language: ["JavaScript","Shell","Python"],
+            language: ["JavaScript","Shell","Python", "Other"],
             maintanied: false
         },
         {
-            name: 'api_sneazy',
-            homepage: 'https://www.npmjs.com/package/lolkil-api',
-            repo: 'https://github.com/LoliKillers/lolkil-api',
-            lenguage: ["JavaScript", "Html", "CSS"],
+            name: 'Sneazy_MD',
+            homepage: 'https://github.com/vynkevin222',
+            repo: 'https://github.com/vynkevin222/sneazy-md',
+            lenguage: ["JavaScript", "Roff"],
             maintanied: false
          }
     ]
