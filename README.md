@@ -12,6 +12,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
+## DISCORD
+
+<img src="https://discord.c99.nl/widget/theme-3/757440232802222130.png">
 
 ## GitHub Statistics
 
