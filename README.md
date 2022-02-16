@@ -6,13 +6,13 @@
 - Typescript
 - HTML/CSS
 
-<p align="center"><img src="https://profile-counter.glitch.me/{vynkevin222}/count.svg" alt="Vin :: VISITOR" /></p>
-
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
+
+<h1 align="center">VISITOR<img src="https://profile-counter.glitch.me/{vynkevin222}/count.svg" width="40px"</h1>
 
 ## DISCORD
 
