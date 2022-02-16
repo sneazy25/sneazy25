@@ -12,7 +12,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
-<h1 align="center">VISITOR<img src="https://profile-counter.glitch.me/{vynkevin222}/count.svg" width="40px"</h1>
+<h1 align="center">VISITOR<img src="https://discord.c99.nl/widget/theme-3/757440232802222130.png"</h1>
 
 ## DISCORD
 
