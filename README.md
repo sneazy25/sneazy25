@@ -1,1 +1,103 @@
-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
+<h1 align="center">こんにちは〜<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Hi!! Welcome..</h1>
+
+:page_with_curl: I'm currently learning:
+- Javascript 
+- Python
+- Typescript
+- HTML/CSS
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
+
+<h1 align="center">VISITOR<img src="https://profile-counter.glitch.me/{vynkevin222}/count.svg"</h1>
+
+## DISCORD
+
+<img src="https://discord.c99.nl/widget/theme-3/757440232802222130.png">
+
+## GitHub Statistics
+
+![Sneazys Vyn github stats](https://github-readme-stats.vercel.app/api?username=vynkevin222&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vynkevin222&theme=chartreuse-dark&layout=compact)](https://github.com/vynkevin222/vynkevin222)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vynZGaming&repo=Apinya&theme=blue-green)](https://github.com/vynkevin222/vynkevin222)
+<P align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vynkevin222&theme=chartreuse-dark">
+
+## TROPHIES
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=vynkevin222&theme=chartreuse-dark&row=3&column=3"/>
+
+```TypeScript
+import { contact, User, About } from './Instagram'
+
+export default class ME implements User {
+    public static firstName = 'Kevin'
+    public static lastName = 'Paratama'
+    public static username = 'Sneazy'
+    public static website = 'https://aboutmevin.herokuapp.com'
+    public static aliases = ['SNEAZY']
+    public static skills = ['HTML', 'CSS', 'JavaScript', 'NodeJS', 'Python']
+    public static info = {
+        age: 15,
+        country: 'Indonesia',
+        city: 'Jakarta',
+        school: 'Smp_Trimulia',
+        org: null,
+        likes: ['JavaScript', 'Eat_Sleep', 'PlayGame'],
+        hobbies: ['Coding', 'Smoke', 'Music'],
+        reach: [
+            {
+                name: contact.WhatsApp,
+                url: 'https://wa.me/6285732415700?text=Haii Kak Vin...'
+            },
+            {
+                name: contact.Instagram,
+                url: 'https://instagram.com/ardynvyn__'
+            },
+            {
+                name: contact.Telegarm,
+                url: 'https://t.me/Sneazy'
+            },
+            {
+                name: contact.Discord,
+                url: 'VYN [ Pro ]#2931'
+            },
+            {
+              name: contact.github,
+              url: 'https://github.com/vynsneazy'
+            },
+            {
+              name: contact.twiter,
+              url: 'https://mobile.twitter.com/Ardiyan_Kevin'
+            }
+        ]
+    }
+    public static projects = [
+        {
+            name: 'Sneazy_Bot',
+            homepage: 'https://github.com/vynsneazy',
+            repo: 'https://github.com/vynsneazy/SN',
+            language: ["JavaScript","Shell","Python", "Other"],
+            maintanied: false
+        },
+        {
+            name: 'Sneazy_MD',
+            homepage: 'https://github.com/vynkevin222',
+            repo: 'https://github.com/vynkevin222/sneazy-md',
+            lenguage: ["JavaScript", "Roff"],
+            maintanied: false
+         }
+    ]
+}
+```
+<details>
+  <summary><b>Connect with me</b></summary>
+  <p align="center">
+    <i>Let's connect and chat! We are about to Change the World.</i><br><br>
+    <a href="https://twitter.com/sneazy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
+    <a href="https://fb.com/sneazy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
+    <a href="https://instagram.com/ardynvyn__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
+  </p>
+</details>
+
