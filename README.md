@@ -25,6 +25,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vynkevin222&repo=shortner&theme=blue-green)](https://github.com/vynkevin222/vynkevin222)
 <P align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vynkevin222&theme=chartreuse-dark">
 
+![Metrics](https://metrics.lecoq.io/vynkevin222?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
 ## TROPHIES
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=vynkevin222&theme=chartreuse-dark&row=3&column=3"/>
 
