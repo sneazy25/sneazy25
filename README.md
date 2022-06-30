@@ -20,12 +20,12 @@
 
 ## GitHub Statistics
 
-![Sneazys Vyn github stats](https://github-readme-stats.vercel.app/api?username=vynkevin222&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vynkevin222&theme=chartreuse-dark&layout=compact)](https://github.com/vynkevin222/vynkevin222)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vynkevin222&repo=shortner&theme=blue-green)](https://github.com/vynkevin222/vynkevin222)
-<P align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vynkevin222&theme=chartreuse-dark">
+![Sneazys Vyn github stats](https://github-readme-stats.vercel.app/api?username=sneazy25&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneazy25&theme=chartreuse-dark&layout=compact)](https://github.com/vynkevin222/vynkevin222)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sneazy25&repo=shortner&theme=blue-green)](https://github.com/vynkevin222/vynkevin222)
+<P align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sneazy25&theme=chartreuse-dark">
 
-![Metrics](https://metrics.lecoq.io/Vynkevin222?template=classic&languages=1&isocalendar=1&repositories=1&achievements=1&lines=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/sneazy25?template=classic&languages=1&isocalendar=1&repositories=1&achievements=1&lines=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta)
 
 ```TypeScript
 import { contact, User, About } from './Instagram'
